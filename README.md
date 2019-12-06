@@ -6,7 +6,8 @@
 
 ## Acknowledgments
 - font-awesome提供字体图标
+- 感谢原作者@itsay提供模板
 
 ## LICENSE
 
-MIT协议
+- MIT协议
